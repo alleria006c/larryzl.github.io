@@ -3,6 +3,7 @@ layout: post
 title:  "Docker for Mac 阿里云仓库配置 "
 date:   2018-04-23 11:06:43 +0800
 categories: docker
+tags: docker
 ---
 
 * content
