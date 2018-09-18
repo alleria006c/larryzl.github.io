@@ -7,7 +7,7 @@
 
 # Site settings
 title: Larryzl 运维日记
-brief-intro: DevOps...
+brief-intro: DevOps笔记
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://larryzl.github.io" # the base hostname & protocol for your site
 
