@@ -27,5 +27,7 @@ task :post do
     post.puts "category: "
     post.puts "tags: []"
     post.puts "---"
+    post.puts "* content"
+    post.puts "{:toc}"
   end
 end # task :post

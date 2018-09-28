@@ -44,9 +44,12 @@ Rake ，即Ruby Make ，使用ruby开发代码构建工具
 		    post.puts "---"
 		    post.puts "layout: post"
 		    post.puts "title: \"#{title.gsub(/-/,' ')}\""
+		    post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')} +0800"
 		    post.puts "category: "
 		    post.puts "tags: []"
 		    post.puts "---"
+		    post.puts "* content"
+		    post.puts "{:toc}"
 		  end
 		end # task :post
 
