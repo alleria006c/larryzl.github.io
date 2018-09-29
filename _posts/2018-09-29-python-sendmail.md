@@ -3,6 +3,7 @@ layout: post
 title: "python smtplib 发送邮件方法"
 date: 2018-09-29 15:45:11 +0800
 category: python
+layout: post
 tags: [python]
 ---
 * content
